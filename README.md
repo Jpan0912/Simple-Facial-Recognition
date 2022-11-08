@@ -12,7 +12,7 @@ TRAINING MODEL
 
 3. Provide the correct path for the train folder in face_train.py
 
-4. Run face_train.py, if successful 'Training done -----------' should be seen on the terminal and 'features.npy' and 'labels.npy' should be created.
+4. Run face_train.py, if successful 'Training done -----------' should be seen on the terminal and 'features.npy', 'face_trained.yml', and 'labels.npy' should be created.
 
 RECOGNITION
 
